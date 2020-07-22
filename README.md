@@ -1,2 +1,2 @@
 # TP-04-Binary-Trees
-Solution to exercises in TP-04 written in C.
+Solution to exercises in TP-04 written in C and excution in terminal.
